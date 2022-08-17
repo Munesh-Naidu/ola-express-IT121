@@ -1,0 +1,19 @@
+{
+  "name": "ola-express-it121",
+  "version": "1.0.0",
+  "description": "Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munesh-Naidu/ola-express-IT121.git"
+  },
+  "author": "Munesh Naidu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munesh-Naidu/ola-express-IT121/issues"
+  },
+  "homepage": "https://github.com/Munesh-Naidu/ola-express-IT121#readme"
+}
